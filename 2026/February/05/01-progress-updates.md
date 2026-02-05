@@ -14,6 +14,7 @@
 <li>
 <li>
 <li>- 05/02/2026: I worked on updating my fesothe.com website, I added a readme page I have previously redirected /README.md to /readme/
+<li>- 05/02/2026: I created the layout for a markdown blog on my GitHub profile, I started to link to it via schema markup on my website fesothe.com, I plan to create a page /blog/ e.t.c on my website where I will list all of the blogs I post to including this dev blog.
 <li>End of Dev Blog</ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
