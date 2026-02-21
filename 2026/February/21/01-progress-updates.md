@@ -8,7 +8,7 @@
 <hr>
 <br>
 <li>- 21/02/2026: I worked on fesothe.com and created a drop down search box for the search button icon that was originally just a link, it mirrors the mobile dropdown but has a search box and button. The mobile version
-of the page is still a link to ensure fast loading, which still redircts a visitor to the /search/ page. This now exisits on two pages the front page and an internal gallery page where I was working on developing it.</li>  
+of the page is still a link to ensure fast loading, which still redirects a visitor to the /search/ page. This now exisits on two pages the front page and an internal gallery page where I was working on developing it.</li> 
 <li>- 21/02/2026: I worked on watch.furtainment.com and watch.furtain.com I deployed a search button with the new drop down search box based on the one created on fesothe.com, I will need to fix the hover over
 icon color and hover text color to keep it white.</li>
 <li>End of Dev Blog</li></ul>
