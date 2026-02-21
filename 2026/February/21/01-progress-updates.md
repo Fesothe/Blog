@@ -8,7 +8,7 @@
 <hr>
 <br>
 <li>- 21/02/2026: I worked on fesothe.com and created a drop down search box for the search button icon that was originally just a link, it mirrors the mobile dropdown but has a search box and button. The mobile version
-of the page is still a link to ensure fast loading, which still redircts a visitor to the /search/ page.</li>  
+of the page is still a link to ensure fast loading, which still redircts a visitor to the /search/ page. This now exisits on two pages the front page and an internal gallery page where I was working on developing it.</li>  
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
