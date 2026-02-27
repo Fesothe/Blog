@@ -7,7 +7,8 @@
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
 <br>
-<li>- 27/02/2026: I worked on fesothe.com and updated the sitemaps for /group/ as well as blocked /group/legal/ in robots.txt.</li> 
+<li>- 27/02/2026: I worked on fesothe.com and updated the sitemaps for /group/ as well as blocked /group/legal/ in robots.txt.</li>
+<li>- 27/02/2026: I worked on watch.furtainment.com and fixed a ttps:// card error on the queergaze.org store link</li> 
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
