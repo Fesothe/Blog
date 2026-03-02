@@ -7,8 +7,8 @@
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
 <br>
-<li>- 02/03/2026: I worked on watch.furtainment.com and watch.furtain.com and made updates to the search.js and moved it to a new CDN cdn.furtain.com and applied a 1 year cache for static assets
-   rolled the new CDN search script to all watch pages.</li>
+<li>- 02/03/2026: I worked on watch.furtainment.com and watch.furtain.com and made updates to the search.js and moved it to a new CDN cdn.furtain.com and applied a 1 year cache for static assets and then
+   rolled the new CDN search script to all watch pages. The script will run on all Furtainment websites and sub pages.</li>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
