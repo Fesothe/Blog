@@ -8,6 +8,7 @@
 <hr>
 <br>
 <li>- 03/03/2026: I worked on watch.furtainment.com and watch.furtain.com I rolled out the static cdn.furtain.com cookie.css and tooltips.js to all pages.</li>
+<li>- 03/03/2026: I worked on watch.furtainment.com setup a test page and developed a bootstrap drop down menu for the browse menu button that matches the search dropdown on wide screens.</li>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
