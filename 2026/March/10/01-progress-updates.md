@@ -7,7 +7,7 @@
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
 <br>
-<li>- 09/03/2026: I worked on fesothe.com I've worked on developing the blog page/theme.</li>
+<li>- 10/03/2026: I worked on fesothe.com I've worked on developing the blog page/theme.</li>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
