@@ -9,7 +9,7 @@
 <br>
 <li>- 13/03/2026: I worked locally on the theme for Boku No Fanservice bokunofanservice.com I've updated the navagation bar to match fesothe.com and I've been rolling out the css to match the theme, I
   updated the name banner to match fesothe.com</li>
-<li>- 13/03/2026: I updated fesothe.com with a minior footer fix for the spacing of the categories, about, business, resources, and legal vs the links listed adding it to the styles and ensuring it
+<li>- 13/03/2026: I updated fesothe.com with a minior footer fix for the spacing of the categories, about, business, resources, and legal vs the links listed adding it to the theme css and ensuring it
   shows on all pages.</li>
 <li>End of Dev Blog</li></ul>
 
