@@ -7,7 +7,7 @@
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
 <br>
-<li>- 14/03/2026: I worked on jonathancurley.tel I've updated the pages with Google anaytics which includes the custom error pages.</li>
+<li>- 14/03/2026: I worked on jonathancurley.tel I've updated the pages with Google anaytics which includes the custom error pages. I also updated dns-prefetch for the net domain and Google share link.</li>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
