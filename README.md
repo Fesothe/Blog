@@ -1,5 +1,6 @@
 <h1><p align="center">🐇 Jonathan Curley</p></h1>
 <h2><p align="center">Dev Blog & Project Documentation Hub</p></h2>
+<h2><p align="center"><a href="https://certifiablyfurry.com"><b>#certifiablyfurry</b></a></p></h2><br>
 
 <p align="center"><a href="https://fesothe.com">
   <img alt="Fesothe Text Logo" src="https://fesothe.com/fesothe_text_letterhead_logo.png"></a></p>
