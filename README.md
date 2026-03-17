@@ -11,4 +11,7 @@ I work on projects that build up my infrastructure, identity, and share my creat
 
 I love clean websites and easy to understand projects.
 
+<ul>
+    <li><a href="https://github.com/Fesothe/Blog/tree/main/2026">2026</a></li>
+</ul>
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
