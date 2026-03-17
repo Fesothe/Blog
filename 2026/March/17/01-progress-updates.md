@@ -8,6 +8,7 @@
 <hr>
 <br>
 <li>- 17/03/2026: I worked on jonathancurley.tel and added a home link on all error pages including alternative language error pages.</li>
+<li>- 17/03/2026: I worked on https://github.com/Fesothe/Blog/ and updated all pages with my real name.</li>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
