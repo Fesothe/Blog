@@ -1,4 +1,4 @@
-<h1><p align="center">Velivian Fesothe - Blog</p></h1>
+<h1><p align="center">🐇 Jonathan Curley - Blog</p></h1>
 <h2><p align="center">Blog Updates for the 13th of March 2026</p><h2>
   
 <p align="center"><a href="https://fesothe.com">
