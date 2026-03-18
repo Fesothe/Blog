@@ -7,7 +7,7 @@
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
 <br>
-<li>- 18/03/2026: I worked on jonathancurley.tel and added a bootstrap img responsive class all error pages including alternative language error pages.</li>
+<li>- 18/03/2026: I worked on jonathancurley.tel and added a bootstrap img responsive class on all error pages including alternative language error pages.</li>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
