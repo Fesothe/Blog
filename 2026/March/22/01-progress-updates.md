@@ -8,7 +8,7 @@
 <hr>
 <li>- 22/03/2026: I worked on a private furtainment web app.</li>
   <hr>
-<li>- 22/03/2026: I worked on a a Tool Box in Hexagon 2.5 for a private piece of Artwork.</li>
+<li>- 22/03/2026: I worked on a Tool Box in Hexagon 2.5 for a private piece of Artwork.</li>
   
 <p align="center"><a href="https://fesothe.com/media/blog/2026/march/22/tool_box_01.png"><img alt="Fesothe Text Logo" src="https://fesothe.com/media/blog/2026/march/22/tool_box_01.png"></a></p>
   <hr>
