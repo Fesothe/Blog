@@ -8,7 +8,7 @@
 <hr>
 <li>- 23/03/2026: I worked on some private furtainment website page tests.</li>
   <hr>
-<li>- 23/03/2026: I worked on a a Tool Box in Hexagon 2.5 for a private piece of Artwork.</li>
+<li>- 23/03/2026: I worked on a Tool Box in Hexagon 2.5 for a private piece of Artwork.</li>
   
 <p align="center"><a href=""><img alt="Tool Box WIP" src=""></a></p>
   <hr>
