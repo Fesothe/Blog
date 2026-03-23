@@ -8,6 +8,7 @@
 <hr>
 <li>- 20/03/2026: I worked on jonathancurley.com and updated the theme colors, I updated the theme code to hard code links to jonathancurley.tel, added more nav links,
   and updated the about text around the website and the backend.</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
