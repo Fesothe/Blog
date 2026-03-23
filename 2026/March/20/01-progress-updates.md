@@ -6,7 +6,6 @@
 <li>https://furtainment.com/careers/
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
-<br>
 <li>- 20/03/2026: I worked on jonathancurley.com and updated the theme colors, I updated the theme code to hard code links to jonathancurley.tel, added more nav links,
   and updated the about text around the website and the backend.</li>
 <li>End of Dev Blog</li></ul>
