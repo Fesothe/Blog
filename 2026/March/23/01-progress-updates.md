@@ -10,7 +10,7 @@
   <hr>
 <li>- 23/03/2026: I worked on a Tool Box in Hexagon 2.5 for a private piece of Artwork.</li>
   
-<p align="center"><a href=""><img alt="Tool Box WIP" src=""></a></p>
+<p align="center"><a href="https://fesothe.com/media/blog/2026/march/23/tool_box_02.png"><img alt="Tool Box WIP" src="https://fesothe.com/media/blog/2026/march/23/tool_box_02.png"></a></p>
   <hr>
 <li>End of Dev Blog</li></ul>
 
