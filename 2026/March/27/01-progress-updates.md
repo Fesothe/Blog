@@ -6,7 +6,7 @@
 <li>https://furtainment.com/careers/
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
-<li>- 27/03/2026: I worked on rabbitcare.guide and did about 70% of the website front page, and themeing, I added app meta tags, alt language tags, updated images, added a carrot icon etc.</li>
+<li>- 27/03/2026: I worked on rabbitcare.guide and did about 70% of the website front page, and theming, I added app meta tags, alt language tags, updated images, added a carrot icon etc.</li>
   <hr>
 <li>End of Dev Blog</li></ul>
 
