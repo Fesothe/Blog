@@ -8,6 +8,8 @@
 <hr>
 <li>- 27/03/2026: I worked on rabbitcare.guide and did about 70% of the website front page, and theming, I added app meta tags, alt language tags, updated images, added a carrot icon etc.</li>
   <hr>
+<li>- 27/03/2026: I worked on jonathancurley.dev I've completed the full setup and fixed all links, it's now ready for blog posts.</li>
+  <hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
