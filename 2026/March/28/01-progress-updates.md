@@ -6,9 +6,9 @@
 <li>https://furtainment.com/careers/
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
-<li>- 28/03/2026: I worked on jonathancurley.com I updated a full press and media page, I added Google Analytics</li>
+<li>- 28/03/2026: I worked on jonathancurley.com I updated a full press and media page, I added Google Analytics and UTM tags, updated outbound and internal links.</li>
   <hr>
-<li>- 28/03/2026: I worked on jonathancurley.dev I added Google Analytics.</li>
+<li>- 28/03/2026: I worked on jonathancurley.dev I added Google Analytics and UTM tags, updated outbound and internal links.</li>
   <hr>
 <li>End of Dev Blog</li></ul>
 
