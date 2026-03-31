@@ -10,6 +10,7 @@
   and updated links and the size of my personal photo on the about pages.</li>
 <hr>
   <li>- 31/03/2026: I worked on a 3D light bulb for Kilynn Tor.</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
