@@ -10,7 +10,6 @@
 <hr>
   <li>- 01/04/2026: I worked on VTuber.prof and completed the conversion to my Twitch channel, Todo: update the about page. I also started development on the
   video switch up tabs</li>
-<hr>
   <hr>
 <li>- 01/04/2026: I worked on jonathancurley.tel, I updated the links with www to direct people to quicker to the websites/blogs.</li>
 <hr>
