@@ -10,7 +10,7 @@
     <li><a href="https://github.com/Fesothe/Blog/tree/main/2026/April">April</a></li>
     <li><a href="https://github.com/Fesothe/Blog/tree/main/2026/May">May</a></li>
     <li><a href="https://github.com/Fesothe/Blog/tree/main/2026/June">June</a></li>
-    <li><a href="https://github.com/Fesothe/Blog/tree/main/2026/Juny">July</a></li>
+    <li><a href="https://github.com/Fesothe/Blog/tree/main/2026/July">July</a></li>
     <li><a href="https://github.com/Fesothe/Blog/tree/main/2026/August">August</a></li>
     <li><a href="https://github.com/Fesothe/Blog/tree/main/2026/September">September</a></li>
     <li><a href="https://github.com/Fesothe/Blog/tree/main/2026/October">October</a></li>
