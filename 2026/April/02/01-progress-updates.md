@@ -8,7 +8,7 @@
 <hr>
 <li>- 02/04/2026: I worked on professor.tel I setup the website ready to be developed and launched.</li>
 <hr>
-  <li>- 02/04/2026: I worked on professor.tel I fully updated as a clone of jonathancurley.tel and added all analytics.</li>
+  <li>- 02/04/2026: I worked on professor.tel I fully updated as a clone of jonathancurley.tel and added all analytics. I redirected professors.tel</li>
 <hr>
 <li>End of Dev Blog</li></ul>
 
