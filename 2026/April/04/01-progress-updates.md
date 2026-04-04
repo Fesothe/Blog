@@ -11,6 +11,8 @@
   <li>- 04/04/2026: I worked on fesothe.com, I overhauled most pages and fixed the footer links, added better nav search button and fixed an outdated footer link I updated it to https://certifiablyfurry.com and I
     updated all news links to https://www.bokunofanservice.com/search/label/News?&max-results=5.</li>
 <hr>
+  <li>- 04/04/2026: I worked on rabbitcare.guide, I fixed most issues and opened the website up to visitors I will work more on it tomorrow.</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
