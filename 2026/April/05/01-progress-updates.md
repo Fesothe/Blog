@@ -10,6 +10,8 @@
 <hr>
   <li>- 05/04/2026: I worked on rabbitcare.guide, I fixed a single button padding css issue and added Google Analytics to all pages.</li>
 <hr>
+  <li>- 05/04/2026: I worked on fesothe.com, I fixed the nav and footerlinks and updated schema.</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
