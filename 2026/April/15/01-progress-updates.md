@@ -8,8 +8,10 @@
 <hr>
   <li>- 15/04/2026: I continued to work on the development of the highwireskys.com new website which will be used as a template for other show and movie websites.</li>
 <hr>
-  <li>- 15/04/2026: I added Google Search Console Auth to furtainment.org and furtainment.net and updated the redirects and security backend.</li>
+  <li>- 15/04/2026: I added Google Search Console Auth for furtainment.org and furtainment.net and updated the redirects and security backend.</li>
 <hr>
+  <hr>
+  <li>- 15/04/2026: I added Google Search Console Auth for solardragoon.com and puffinforce.com.</li>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
