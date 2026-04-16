@@ -10,8 +10,8 @@
 <hr>
   <li>- 15/04/2026: I added Google Search Console Auth for furtainment.org and furtainment.net and updated the redirects and security backend.</li>
 <hr>
-  <hr>
   <li>- 15/04/2026: I added Google Search Console Auth for solardragoon.com and puffinforce.com.</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
