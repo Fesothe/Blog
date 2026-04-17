@@ -8,7 +8,7 @@
 <hr>
   <li>- 17/04/2026: I bought techdeck.tel and techdecks.tel I worked on the backend for techdeck.tel and frontend, I created TechDeck - Identity Index Datasets and added Google Search Console Auth.</li>
 <hr>
-   <li>- 17/04/2026: I started to create alt lang links for certifiablyfurry.com redirects eg certifiablyfurry.com/es/ to https://es.anthroinfo.com/dictionary/certifiablyfurry/</li>
+   <li>- 17/04/2026: I started to create alt lang links for certifiablyfurry.com redirects eg certifiablyfurry.com/es/ to https://es.anthroinfo.com/dictionary/certifiablyfurry/ I will need to fix the template for es links</li>
 <hr>
   <li>- 17/04/2026: I worked on jonathancurley.tel and added the alt schema, json, md files for all languages for AI data ingestion, this will be rolled out network wide for all domains I own.</li>
 <hr>
