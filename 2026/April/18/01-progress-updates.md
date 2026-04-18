@@ -9,6 +9,7 @@
   <li>- 18/04/2026: I bought tech-deck.org and tech-decks.org I worked on the backend for techdeck.tel and frontend and GitHub internal repos, I created the TechDeck Standards Group https://github.com/tech-decks-org TechDeck is an open, distributed identity protocol for publishing structured, machine‑readable profiles across independent domains. This organisation hosts the official specification, schema, and documentation. And I added Google Search Console Auth.</li>
 <hr>
   <li>- 18/04/2026: I published a dispatch on https://www.bokunofanservice.com/2026/04/dispatch-03-kickstart-the-art.html.</li>
+  <hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
