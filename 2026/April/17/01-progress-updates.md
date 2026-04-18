@@ -11,7 +11,9 @@
    <li>- 17/04/2026: I started to create alt lang links for certifiablyfurry.com redirects eg certifiablyfurry.com/es/ to https://es.anthroinfo.com/dictionary/certifiablyfurry/ I will need to fix the template for es links</li>
 <hr>
   <li>- 17/04/2026: I worked on jonathancurley.tel and added the alt schema, json, md files for all languages for AI data ingestion, this will be rolled out network wide for all domains I own.</li>
-<hr>
+  <hr>
+  <li>- 17/04/2026: I published a dispatch on https://www.bokunofanservice.com/2026/04/dispatch-03-kickstart-the-art.html.</li>
+  <hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
