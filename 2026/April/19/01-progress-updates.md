@@ -10,8 +10,8 @@
 <hr>
   <li>- 19/04/2026: I worked on TechDeck https://github.com/Fesothe/TechDeck and https://techdeck.tel, I updated it with new info and updated the licence.</li>
 <hr>
+  <li>- 19/04/2026: I published on Boku No Fanservice https://www.bokunofanservice.com/2026/04/dispatch-05-cheesy-shortcuts.html.</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
-
-
