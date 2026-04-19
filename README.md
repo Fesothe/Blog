@@ -19,6 +19,7 @@ I love clean websites and easy to understand projects.
 </ul>
 
 This blog is licensed under the Creative Commons Attribution 4.0 International License.
+
 See the LICENSE file for full details.
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
