@@ -8,7 +8,7 @@
 <hr>
   <li>- 19/04/2026: I bought technicalart.org and I worked on the backend and prepared it for going live once I clone and re-build the template, And I also added Google Search Console Auth so it's connected to my network of domains.</li>
 <hr>
-  <li>- 19/04/2026: I worked on TechDeck https://github.com/Fesothe/TechDeck I updated it with new info and updated the licence.</li>
+  <li>- 19/04/2026: I worked on TechDeck https://github.com/Fesothe/TechDeck and https://techdeck.tel, I updated it with new info and updated the licence.</li>
 <hr>
 <li>End of Dev Blog</li></ul>
 
