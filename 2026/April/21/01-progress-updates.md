@@ -6,8 +6,10 @@
 <li>https://furtainment.com/careers/
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
-  <li>- 21/04/2026: I published on Boku No Fanservice https://www.bokunofanservice.com/2026/04/dispatch-07-puffin-force.html.</li>
+  <li>- 22/04/2026: I published on Boku No Fanservice https://www.bokunofanservice.com/2026/04/dispatch-08-good-bad-human.html.</li>
 <hr>
+  <li>- 22/04/2026: I updated the Android app URL on rabbitcare.guide.</li>
+ <hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
