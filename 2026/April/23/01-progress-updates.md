@@ -10,6 +10,8 @@
 <hr>
   <li>- 23/04/2026: I updated the rabbitcare.guide with some TechDeck .md files.</li>
  <hr>
+  <li>- 23/04/2026: I sketchfab stat counter for fesothe.com.</li>
+ <hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
