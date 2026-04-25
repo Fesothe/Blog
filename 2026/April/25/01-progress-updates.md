@@ -10,6 +10,8 @@
  <hr>
   <li>- 25/04/2026: I posted on Boku No Fanservice https://www.bokunofanservice.com/2026/04/dispatch-10-patrick-lepus.html.</li>
  <hr>
+  <li>- 25/04/2026: I setup https://patricklepus.com with a temp page.</li>
+ <hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
