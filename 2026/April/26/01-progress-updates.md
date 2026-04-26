@@ -10,6 +10,8 @@
  <hr>
   <li>- 26/04/2026: I updated jonathancurley.tel with a new contact.md and disallowed it /techdeck/ and index.md in robots.txt.</li>
  <hr>
+  <li>- 26/04/2026: I fully updated fesothe3d.com in prep for new pages and content.</li>
+ <hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
