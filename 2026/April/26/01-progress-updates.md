@@ -8,9 +8,9 @@
 <hr>
   <li>- 26/04/2026: I posted on Boku No Fanservice https://www.bokunofanservice.com/2026/04/dispatch-11-fesothe3d.html.</li>
  <hr>
-  <li>- 26/04/2026: I updated jonathancurley.tel with a new contact.md and disallowed it /techdeck/ and index.md in robots.txt.</li>
+  <li>- 26/04/2026: I updated https://jonathancurley.tel with a new contact.md and disallowed it /techdeck/ and index.md in robots.txt.</li>
  <hr>
-  <li>- 26/04/2026: I fully updated fesothe3d.com in prep for new pages and content.</li>
+  <li>- 26/04/2026: I fully updated https://fesothe3d.com in prep for new pages and content.</li>
  <hr>
 <li>End of Dev Blog</li></ul>
 
