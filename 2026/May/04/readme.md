@@ -1,0 +1,9 @@
+<h1><p align="center">🐇 Jonathan Curley - Blog</p></h1>
+<h2><p align="center">Blog Updates for the 4th of May 2026</p><h2>
+  
+<p align="center"><a href="https://fesothe.com">
+  <img alt="Fesothe Text Logo" src="https://fesothe.com/fesothe_text_letterhead_logo.png"></a></p>
+
+<a href="https://github.com/Fesothe/Blog/blob/main/2026/May/04/01-progress-updates.md">Progress Updates</a>
+
+![](https://komarev.com/ghpvc/?username=fesothe&color=red)
