@@ -6,7 +6,9 @@
 <li>https://furtainment.com/careers/
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
-<li>- 16/05/2026: I updated the dns records for https://anthropomorphist.net and https://anthropomorphist.org all three now forward fully to the org along with the com</li>
+<li>- 16/05/2026: I updated the DNS records for https://anthropomorphist.net and https://anthropomorphist.org, all three now forward fully to the org along with the com</li>
+<hr>
+<li>- 16/05/2026: I posted on Boku No Fanservice https://www.bokunofanservice.com/2026/05/dispatch-17-tokyomaw.html</li>
 <hr>
 <li>End of Dev Blog</li></ul>
 
