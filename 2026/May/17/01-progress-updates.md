@@ -6,7 +6,7 @@
 <li>https://furtainment.com/careers/
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
-<li>- 17/05/2026: I started to convert Furtainment Domains into a dataaset https://github.com/Furtainment/Furtainment-Domains</li>
+<li>- 17/05/2026: I started to convert Furtainment Domains into a dataset https://github.com/Furtainment/Furtainment-Domains</li>
 <hr>
 <li>End of Dev Blog</li></ul>
 
