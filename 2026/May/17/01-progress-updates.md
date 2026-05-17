@@ -8,6 +8,8 @@
 <hr>
 <li>- 17/05/2026: I started to convert Furtainment Domains into a dataset https://github.com/Furtainment/Furtainment-Domains</li>
 <hr>
+<li>- 17/05/2026: I started to roll out the full template for Jonathan Curley Technical Arts Research https://jonathancurley.university</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
