@@ -1,12 +1,14 @@
 <ul><li> Fesothe’s mission is to develop, create, publish, and share content driven by a passion for anthropomorphics.
 <li>
-<li>This is a Velivian Fesothe dev blog entry for the 18th of May 2026.
+<li>This is a Velivian Fesothe dev blog entry for the 17th of May 2026.
 <li>Please check if I'm hiring a role you're suitable for at:
 <li>https://fesothe.com/about/careers/
 <li>https://furtainment.com/careers/
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
-<li>- 18/05/2026: I posted on Boku No Fanservice https://www.bokunofanservice.com/2026/05/dispatch-18-rainbow-stalin.html</li>
+<li>- 17/05/2026: I started to convert Furtainment Domains into a dataset https://github.com/Furtainment/Furtainment-Domains</li>
+<hr>
+<li>- 17/05/2026: I started to roll out the full template for Jonathan Curley Technical Arts Research https://jonathancurley.university</li>
 <hr>
 <li>End of Dev Blog</li></ul>
 
