@@ -8,6 +8,8 @@
 <hr>
 <li>- 21/05/2026: I completed the rollout of the research documentation pages for my university website https://jonathancurley.university/docs/</li>
 <hr>
+<li>- 21/05/2026: I started the rollout of https://agenticfandom.com</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
