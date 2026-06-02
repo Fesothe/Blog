@@ -8,6 +8,8 @@
 <hr>
 <li>- 02/06/2026: I setup Is It Agentic Ready?, https://www.isitagenticready.com</li>
 <hr>
+<li>- 02/06/2026: I posted on Boku No Fanservice, https://www.bokunofanservice.com/2026/06/dispatch-20-agentic-fandom.html</li>
+<hr>
 <li>End of Dev Blog</li></ul>
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
