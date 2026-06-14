@@ -6,7 +6,7 @@
 <li>https://furtainment.com/careers/
 <li>https://github.com/Furtainment/Furtainment-Careers
 <hr>
-<li>- 14/06/2026: I worked on the backend for our Furtainment Agentic Fandom Agents, https://agents.agenticfandom.com/</li>
+<li>- 14/06/2026: I worked on the backend for our Furtainment Agentic Fandom Agents, https://agents.agenticfandom.com</li>
 <hr>
 <li>End of Dev Blog</li></ul>
 
